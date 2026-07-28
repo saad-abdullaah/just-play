@@ -2,26 +2,26 @@ const songs = [
   {
     title: "blue",
     artist: "yung.kai",
-    cover: "assests/images.png",
-    src: "assests/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(mp3.pm).mp3"
+    cover: "assets/images.png",
+    src: "assets/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(mp3.pm).mp3"
   },
  {
     title: "The NeighbourHood",
     artist: "Messis",
-    cover: "assests/images1.png",
-    src: "assests/The_Neighbourhood_-_Sweater_Weather_(mp3.pm).mp3"
+    cover: "assets/images1.png",
+    src: "assets/The_Neighbourhood_-_Sweater_Weather_(mp3.pm).mp3"
   },
   {
     title: "blue",
     artist: "yung.kai",
-    cover: "assest song/images.png",
-    src: "assest song/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(mp3.pm).mp3"
+    cover: "assets/images.png",
+    src: "assets/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(mp3.pm).mp3"
   },
   {
     title: "Far From Any Roads",
     artist: "The Handsome Family",
-    cover: "assest song/images4.png",
-    src: "assest song/far_from_any_road.mp3"
+    cover: "assests/images4.png",
+    src: "assests/far_from_any_road.mp3"
   },
 ];
 
