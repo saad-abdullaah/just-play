@@ -2,13 +2,13 @@ const songs = [
   {
     title: "blue",
     artist: "yung.kai",
-    cover: "assest song/images.png",
+    cover: "assests/images.png",
     src: "assest song/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(mp3.pm).mp3"
   },
  {
     title: "The NeighbourHood",
     artist: "Messis",
-    cover: "assest song/images1.png",
+    cover: "assests/images1.png",
     src: "assest song/The_Neighbourhood_-_Sweater_Weather_(mp3.pm).mp3"
   },
   {
