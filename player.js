@@ -9,7 +9,7 @@ const songs = [
     title: "The NeighbourHood",
     artist: "Messis",
     cover: "assests/images1.png",
-    src: "assest song/The_Neighbourhood_-_Sweater_Weather_(mp3.pm).mp3"
+    src: "assests/The_Neighbourhood_-_Sweater_Weather_(mp3.pm).mp3"
   },
   {
     title: "blue",
