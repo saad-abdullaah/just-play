@@ -3,7 +3,7 @@ const songs = [
     title: "blue",
     artist: "yung.kai",
     cover: "assests/images.png",
-    src: "assest song/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(mp3.pm).mp3"
+    src: "assests/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(mp3.pm).mp3"
   },
  {
     title: "The NeighbourHood",
